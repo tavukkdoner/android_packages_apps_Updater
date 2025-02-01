@@ -73,13 +73,13 @@
     <string name="header_last_updates_check">கடைசியாகச் சரிபார்க்கப்பட்டது: <xliff:g id="date" example="1 January 1970">%1$s</xliff:g> (<xliff:g id="time" example="01:23">%2$s</xliff:g>)</string>
     <string name="list_build_version">LineageOS <xliff:g id="version" example="14.1">%1$s</xliff:g></string>
     <string name="list_build_version_date">LineageOS <xliff:g id="version" example="14.1">%1$s</xliff:g> - <xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
-    <string name="list_download_progress_newer"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> இல் <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g></string>
-    <string name="list_download_progress_eta_newer"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> இல் <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> (<xliff:g id="eta" example="3 minutes left">%3$s</xliff:g>)</string>
+    <string name="list_download_progress_newer"><xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> இல் <xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g></string>
+    <string name="list_download_progress_eta_newer"><xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> இல் <xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> (<xliff:g id="eta" example="3 minutes left">%3$s</xliff:g>)</string>
     <string name="list_verifying_update">இற்றையைச் சரிபார்க்கிறது</string>
     <string name="list_no_updates">புதிய இற்றைகள் எவையும் கிடைக்கவில்லை; அவற்றைக் கைமுறையாகச் சரிபார்க்க, புதுப்பிப்பு விசையைப் பயன்படுத்துக.</string>
     <string name="action_download">பதிவிறக்குக</string>
     <string name="action_pause">இடைநிறுத்துக</string>
-    <string name="action_resume">மீள்தொடக்குக</string>
+    <string name="action_resume">மீண்டுந்தொடர்க</string>
     <string name="action_install">நிறுவுக</string>
     <string name="action_info">செய்தி</string>
     <string name="action_delete">அழிக்க</string>
@@ -87,8 +87,8 @@
     <string name="confirm_delete_dialog_title">கோப்பை நீக்குக</string>
     <string name="confirm_delete_dialog_message">தேர்ந்தெடுக்கப்பட்ட இற்றைக் கோப்பை நீக்கவா?</string>
     <string name="apply_update_dialog_title">இற்றையைச் செயற்படுத்துக</string>
-    <string name="apply_update_dialog_message"> <xliff:g id="update_name">%1$s</xliff:g> இதை நீங்கள் நிறுவ உள்ளீர்; \n\nநீங்கள் <xliff:g id="ok">%2$s</xliff:g> என்பதை அழுத்தினால், இற்றையை நிறுவ கருவி தானாகவே மீட்டெடுப்பு முறையில் மறுதொடங்கும்.\n\nகுறிப்பு: இப்பண்புக்கூறுக்கு இணக்கமான மீட்டெடுப்பு தேவை; இல்லையெனில், இற்றைகளை கைமுறையாக நிறுவ வேண்டும்.</string>
-    <string name="apply_update_dialog_message_ab"><xliff:g id="update_name">%1$s</xliff:g> இதை நீங்கள் நிறுவ உள்ளீர்; \n\nநீங்கள் <xliff:g id="ok">%2$s</xliff:g> என்பதை அழுத்தினால், பின்னணியில் கருவி நிறுவலைத் தொடங்கும்.\n\nமுடிந்ததும், மறு இயக்கம் செய்யும்படி தூண்டப்படுவீர்.</string>
+    <string name="apply_update_dialog_message"> <xliff:g id="update_name">%1$s</xliff:g>, என்பதை நீங்கள் நிறுவ உள்ளீர்; \n\nநீங்கள் <xliff:g id="ok">%2$s</xliff:g> என்பதை அழுத்தினால், இற்றையை நிறுவ கருவியானது தானாகவே மீட்டெடுப்பு முறையில் மறுதொடங்கும்.\n\nகுறிப்பு: இப்பண்புக்கூறுக்கு இணக்கமான மீட்டெடுப்பு தேவை; இல்லையெனில், இற்றைகளை கைமுறையாக நிறுவ வேண்டும்.</string>
+    <string name="apply_update_dialog_message_ab"><xliff:g id="update_name">%1$s</xliff:g>, என்பதை நீங்கள் நிறுவ உள்ளீர்; \n\nநீங்கள் <xliff:g id="ok">%2$s</xliff:g> என்பதை அழுத்தினால், பின்னணியில் கருவியானது நிறுவலைத் தொடங்கும்.\n\nமுடிந்ததும், மறு இயக்கம் செய்யும்படித் தூண்டப்படுவீர்.</string>
     <string name="cancel_installation_dialog_message">நிறுவலை விலக்கவா?</string>
     <string name="label_download_url">பதிவிறக்க உரலி</string>
     <string name="toast_download_url_copied">உரலி நகலெடுக்கப்பட்டது</string>
