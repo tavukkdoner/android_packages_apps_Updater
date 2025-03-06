@@ -53,21 +53,21 @@
     <string name="menu_auto_updates_check_interval_weekly">Semanal</string>
     <string name="menu_auto_updates_check_interval_monthly">Mensual</string>
     <string name="menu_auto_updates_check_interval_never">Nunca</string>
-    <string name="menu_auto_delete_updates">Borrar actualizaciones luego de instalar</string>
+    <string name="menu_auto_delete_updates">Borrar las actualizaciones una vez instaladas</string>
     <string name="menu_delete_update">Borrar</string>
     <string name="menu_copy_url">Copiar URL</string>
     <string name="menu_export_update">Exportar actualización</string>
     <string name="menu_show_changelog">Mostrar registro de cambios</string>
     <string name="menu_ab_perf_mode">Priorizar el proceso de actualización</string>
     <string name="menu_update_recovery">Actualizar partición de recuperación (recovery)</string>
-    <string name="toast_forced_update_recovery">Es imposible desactivar en este dispositivo las actualizaciones del Modo de Recuperación («Recovery») de crDroid.</string>
+    <string name="toast_forced_update_recovery">Es imposible desactivar las actualizaciones del modo de recuperación («Recovery») de crDroid en este dispositivo.</string>
     <string name="snack_updates_found">Se encontraron nuevas actualizaciones</string>
     <string name="snack_no_updates_found">No se encontraron nuevas actualizaciones</string>
     <string name="snack_updates_check_failed">Error en la comprobación de actualizaciones. Por favor, verifica la conexión a Internet e inténtalo más tarde.</string>
     <string name="snack_download_failed">Descarga fallida. Compruebe la conexión a Internet e inténtelo nuevamente.</string>
-    <string name="snack_download_verification_failed">La verificación de la actualización falló.</string>
+    <string name="snack_download_verification_failed">Ha fallado la verificación de la actualización.</string>
     <string name="snack_download_verified">Descarga completada.</string>
-    <string name="snack_update_not_installable">Esta actualización no puede instalarse encima de la versión actual.</string>
+    <string name="snack_update_not_installable">Esta actualización no puede instalarse sobre la versión actual.</string>
     <string name="header_title_text">crDroid\n%1$s</string>
     <string name="header_android_version">Android <xliff:g id="version" example="7.1.2">%1$s</xliff:g></string>
     <string name="header_last_updates_check">Última comprobación: <xliff:g id="date" example="1 January 1970">%1$s</xliff:g> (<xliff:g id="time" example="01:23">%2$s</xliff:g>)</string>
@@ -114,7 +114,7 @@
     <string name="checkbox_metered_network_warning">No mostrar de nuevo</string>
     <string name="menu_metered_network_warning">Aviso de consumo de datos</string>
     <string name="blocked_update_dialog_title">Actualización bloqueada</string>
-    <string name="blocked_update_dialog_message">Esta actualización no puede instalarse usando la aplicación «Actualizador».  Lea <xliff:g id="info_url">%1$s</xliff:g> para más información.</string>
+    <string name="blocked_update_dialog_message">Esta actualización no puede instalarse usando la aplicación «Actualizador».  Lee <xliff:g id="info_url">%1$s</xliff:g> para más información.</string>
     <string name="export_channel_title">Exportación finalizada</string>
     <string name="new_updates_channel_title">Nuevas actualizaciones</string>
     <string name="ongoing_channel_title">Descargas en curso</string>
